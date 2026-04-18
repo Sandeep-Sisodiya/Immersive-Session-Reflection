@@ -1,0 +1,68 @@
+[
+  {
+    "id": "forest_rain",
+    "title": "Forest Rain",
+    "description": "Immerse yourself in the gentle patter of rain falling through a dense forest canopy. Each drop creates a symphony of natural percussion, washing away the noise of daily life and bringing you back to the essence of calm.",
+    "tag": "Nature",
+    "duration": 600,
+    "audioFile": "forest_rain.mp3",
+    "imageUrl": "forest_rain",
+    "sensoryTags": ["Rain Sounds", "Bird Calls", "Rustling Leaves", "Earthy Aroma"],
+    "color": "#2D6A4F"
+  },
+  {
+    "id": "ocean_waves",
+    "title": "Ocean Waves",
+    "description": "Let the rhythmic ebb and flow of ocean waves carry your thoughts away. The vast, open sea stretches infinitely before you, its timeless motion a reminder of life's natural rhythms and the peace found in surrender.",
+    "tag": "Water",
+    "duration": 900,
+    "audioFile": "ocean_waves.mp3",
+    "imageUrl": "ocean_waves",
+    "sensoryTags": ["Crashing Waves", "Sea Breeze", "Salt Air", "Distant Gulls"],
+    "color": "#1B4965"
+  },
+  {
+    "id": "mountain_wind",
+    "title": "Mountain Wind",
+    "description": "Stand at the summit where the air is thin and pure. The mountain wind carries whispers from ancient peaks, clearing your mind with each gust. Feel the solid ground beneath you as you breathe in clarity and exhale tension.",
+    "tag": "Nature",
+    "duration": 480,
+    "audioFile": "mountain_wind.mp3",
+    "imageUrl": "mountain_wind",
+    "sensoryTags": ["Gentle Gusts", "Pine Fragrance", "Eagle Cries", "Cool Air"],
+    "color": "#5C6B73"
+  },
+  {
+    "id": "tibetan_bowls",
+    "title": "Tibetan Bowls",
+    "description": "Ancient singing bowls resonate through time, their overtones creating layers of harmonic vibration. Each strike sends ripples of sound that align your energy centers, promoting deep healing and spiritual connection.",
+    "tag": "Spiritual",
+    "duration": 720,
+    "audioFile": "tibetan_bowls.mp3",
+    "imageUrl": "tibetan_bowls",
+    "sensoryTags": ["Harmonic Tones", "Deep Vibration", "Sacred Space", "Inner Peace"],
+    "color": "#9B2226"
+  },
+  {
+    "id": "night_garden",
+    "title": "Night Garden",
+    "description": "Wander through a moonlit garden where fireflies dance among fragrant blossoms. Crickets serenade you with their gentle chorus as a soft breeze carries the scent of jasmine and night-blooming flowers.",
+    "tag": "Nature",
+    "duration": 540,
+    "audioFile": "night_garden.mp3",
+    "imageUrl": "night_garden",
+    "sensoryTags": ["Cricket Song", "Floral Scent", "Moonlight", "Gentle Breeze"],
+    "color": "#3A0CA3"
+  },
+  {
+    "id": "cosmic_drift",
+    "title": "Cosmic Drift",
+    "description": "Float weightlessly through the cosmos, surrounded by swirling nebulas and distant starlight. The deep, resonant hum of the universe envelops you as you drift through infinite space, connecting with something greater than yourself.",
+    "tag": "Space",
+    "duration": 1200,
+    "audioFile": "cosmic_drift.mp3",
+    "imageUrl": "cosmic_drift",
+    "sensoryTags": ["Deep Bass", "Stellar Hum", "Weightlessness", "Infinite Expanse"],
+    "color": "#240046"
+  }
+]
